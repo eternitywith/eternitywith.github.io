@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://eternitywith.github.io/about/index.html</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://eternitywith.github.io/posts/e289.html</loc>
     
     <lastmod>2020-10-29</lastmod>
@@ -145,13 +152,6 @@
     <loc>http://eternitywith.github.io/posts/cb0e.html</loc>
     
     <lastmod>2020-10-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eternitywith.github.io/about/index.html</loc>
-    
-    <lastmod>2020-10-19</lastmod>
     
   </url>
   
