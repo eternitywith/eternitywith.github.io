@@ -945,6 +945,10 @@ article .article-content .summary {
     padding-left: 0;
     margin-bottom: 6px;
     word-break: break-all;
+    /* 标题一行，溢出隐藏 */
+    white-space: nowrap;
+    text-overflow:ellipsis;
+
 }
 
 article .article-content .publish-author {
